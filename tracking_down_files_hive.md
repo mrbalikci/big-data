@@ -1,0 +1,1 @@
+hadoop fs -ls /apps/hive/data/CT_NOTIFICATION
